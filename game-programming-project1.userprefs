@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\Dropbox\_SCHOOL\Classes\(2015-2015)\Spring Semester\Game Programming\ShootingGame\ShootingGame\Assets\player.cs">
+    <Files>
+      <File FileName="..\..\Dropbox\_SCHOOL\Classes\(2015-2015)\Spring Semester\Game Programming\ShootingGame\ShootingGame\Assets\enemy.cs" Line="15" Column="26" />
+      <File FileName="..\..\Dropbox\_SCHOOL\Classes\(2015-2015)\Spring Semester\Game Programming\ShootingGame\ShootingGame\Assets\Scripts\Spaceship.cs" Line="16" Column="3" />
+      <File FileName="..\..\Dropbox\_SCHOOL\Classes\(2015-2015)\Spring Semester\Game Programming\ShootingGame\ShootingGame\Assets\player.cs" Line="35" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
